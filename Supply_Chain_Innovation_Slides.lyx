@@ -648,7 +648,7 @@ Self citation patent: More than 10% of patents that the focal patent cites
 
 \end_deeper
 \begin_layout Itemize
-Both measures are based on the number of patents (3-year forward ave) 
+Both measures are based on the number of patents 
 \end_layout
 
 \begin_deeper
@@ -2857,6 +2857,13 @@ Production Structure Given Supply Chains
 \end_layout
 
 \begin_deeper
+\begin_layout Itemize
+\begin_inset Formula $\omega$
+\end_inset
+
+: product
+\end_layout
+
 \begin_layout Itemize
 \begin_inset Formula $\Omega\left(t\right)$
 \end_inset
